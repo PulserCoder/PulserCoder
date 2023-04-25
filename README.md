@@ -41,8 +41,9 @@ I am a Backend Developer, Bot creator <img src="https://media.giphy.com/media/WU
 
 
 ### My codewars profile)
+<a href="https://www.codewars.com/users/PulserCoder">
 <div id="codewars"><img src="https://www.codewars.com/users/PulserCoder/badges/large" /></div>
-
+</a>
 
 
 ---
