@@ -27,7 +27,7 @@
 </h1>
 
 <div id="about_me">
-
+  
 ### :woman_technologist: About Me :
 I am a Backend Developer, Bot creator <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope: I’m working as a Software Engineer and contributing backend for building web applications, also I create really good telegram bots.
@@ -36,9 +36,15 @@ I am a Backend Developer, Bot creator <img src="https://media.giphy.com/media/WU
 
 - :zap: In my free time, I solve problems on Codewars and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![TG Badge](https://img.shields.io/badge/Pavel_Kuzmin-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/coder_sing)
 </div>
 
 
 ### My codewars profile)
 <div id="codewars"><img src="https://www.codewars.com/users/PulserCoder/badges/large" /></div>
+
+
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
