@@ -45,7 +45,6 @@ I am a Backend Developer, Bot creator, Java Developer <img src="https://media.gi
 <div id="codewars"><img src="https://www.codewars.com/users/PulserCoder/badges/large" /></div>
 </a>
 
-https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
